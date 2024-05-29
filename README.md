@@ -3,8 +3,10 @@ This is an Android App. It is very useful app like when you go to visit or go so
 
 # Features
 • Engineered a game-changing mobile app that simplifies daily tasks, making life easier and more organized.
+
 • Developed an all-in-one solution covering everything from Basic Needs to Tech and Health, ensuring users have a
 hassle-free experience managing their daily essentials.
+
 • Leveraged expert proficiency in Java, XML, and SQLite, employing a strategic and innovative approach throughout the
 development lifecycle to deliver a robust, high-performance application that sets new standards in user experience and
 functionality
